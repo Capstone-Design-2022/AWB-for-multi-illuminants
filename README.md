@@ -22,5 +22,5 @@ python script to print output.txt
 
 ### guide for acutal use of trained model ###
 
-In model folder(YYMMDD_TIME folder), "best_mae_illum.zip" and "tensorboard_log.zip" is containing model file and log file each
-The zip files were created due to upload size issue and must be unzipped before use
+In model folder(YYMMDD_TIME folder), "best_mae_illum.zip" and "tensorboard_log.zip" is containing model file and log file each   
+The zip files were created due to upload size issue and must be unzipped before use   
