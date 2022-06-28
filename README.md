@@ -19,7 +19,7 @@ UNet3+ folder
 python script to print output.txt
 
 
------------
+-
 
 ### guide for acutal use of trained model ###
 
